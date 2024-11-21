@@ -2,4 +2,4 @@
 
 *Any farmers in the chat*
 
-Gapped is for farming commits ess
+Gapped is for farming commits essentially 
