@@ -9,6 +9,16 @@ function! Farm()
 	endif
 endfunction
 
+" Toggle function
+function! Toggle()
+	let g:t = !g:t
+	if g:t
+		echo "Gapped is on"
+	else
+		echo "Gapped is off"
+	endif
+endfunction
+
 autocmd TextChanged,TextChangedI * silent! write | call Farm()
 
 command! ToggleGapped let g:t = !g:t
