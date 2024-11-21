@@ -21,4 +21,4 @@ endfunction
 
 autocmd TextChanged,TextChangedI * silent! write | call Farm()
 
-command! ToggleGapped let g:t = !g:t
+command! ToggleGapped call Toggle()
