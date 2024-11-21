@@ -2,4 +2,4 @@
 
 *Any farmers in the chat*
 
-Gapped is for farming commits are meme and fake 
+Gapped is for farming commits, this is real nasty work, the idea here is that commits are meme and fake 
