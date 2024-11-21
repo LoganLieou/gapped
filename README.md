@@ -2,4 +2,4 @@
 
 *Any farmers in the chat*
 
-Gapped is for farming commits, commits are fake and cringe metric so I decided to write a plugin to absolute
+Gapped is for farming commits, commits are fake and cringe metric so I decided to write a plugin to absolutely farm 
