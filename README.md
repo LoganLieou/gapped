@@ -2,4 +2,4 @@
 
 *Any farmers in the chat*
 
-Gapped is for farming commits, this is real nasty work, the ideahere is that 
+Gapped is for farming commits, this is real nasty work, the idea here is that 
