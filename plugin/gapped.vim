@@ -1,5 +1,5 @@
 " Toggle variable
-let g:t = v:true
+let g:t = v:false
 
 " Autosave on change
 function! Farm()
