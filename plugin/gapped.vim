@@ -1,2 +1,6 @@
 " Autosave on change
-autocmd TextChanged,TextChangedI * silent! write
+function! Farm()
+	silent !git add . && git commit -m "gapped" && git push
+endfunction
+
+autocmd TextChanged,TextChangedI * silent! write | call Farm()
