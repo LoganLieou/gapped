@@ -2,4 +2,4 @@
 
 *Any farmers in the chat*
 
-Gapped is for farmin
+Gapped is for farming commits
